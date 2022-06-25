@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SoufianDart
-- 👀 I’m interested in ...Datr and flutter
-- 🌱 I’m currently learning ...dart
+- 👋 Hi, I’m @Soufian ELBAZ
+- 👀 I’m interested in ...Mobile App Developement
+- 🌱 I’m currently learning ...flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
